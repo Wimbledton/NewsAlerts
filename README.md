@@ -1,6 +1,8 @@
 # News Scraper
 
-A real-time news aggregator built with Next.js that fetches and displays news articles from around the world using the NewsCatcher API.
+A real-time news aggregator built with Next.js that fetches and displays news articles from around the world using the NewsCatcher API (https://www.newscatcherapi.com/)
+
+
 
 ## Features
 
